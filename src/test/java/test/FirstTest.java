@@ -31,7 +31,7 @@ public class FirstTest {
         CloseableHttpClient httpClient = HttpClients.createDefault();
 
         //使用HttpGet方式请求网站
-        HttpGet httpGet = new HttpGet("http://www.datalearner.com/blog");
+        HttpGet httpGet = new HttpGet("https://www.google.com");
 
         //获取网址的返回结果
         CloseableHttpResponse response = null;
