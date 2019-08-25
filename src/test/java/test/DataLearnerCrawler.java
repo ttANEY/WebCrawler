@@ -1,7 +1,6 @@
 /*
  * @(#) DataLearnerCrawler
- * 版权声明 没有公司的公司, 版权所有 违者必究
- *
+ *  学习而来
  * <br> Copyright:  Copyright (c) 2019
  * <br> Company:没有公司的公司
  * <br> @author Taney
